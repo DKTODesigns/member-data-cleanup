@@ -31,3 +31,7 @@ A membership file is processed to:
 
 ## Why this project
 This was created as part of learning Python for data analytics, focusing on real-world data cleaning and preprocessing tasks.
+## Output Preview
+![Output](output-preview.png)
+
+The script separates active and inactive members while preserving the original file structure.
