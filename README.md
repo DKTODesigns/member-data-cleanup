@@ -35,3 +35,10 @@ This was created as part of learning Python for data analytics, focusing on real
 ![Output](output-preview.png)
 
 The script separates active and inactive members while preserving the original file structure.
+## Validation
+![Test Result](test-result.png)
+
+The solution was validated using a test script to ensure:
+- No inactive members remain in the active file
+- All records are preserved
+- File structure and headers remain intact
